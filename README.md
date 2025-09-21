@@ -28,3 +28,7 @@ This project analyzes a dataset of 110,000+ Amazon orders to provide actionable 
 - Due to GitHub's file size limits, the raw dataset is not included in this repository. The analysis can be reproduced by downloading a similar e-commerce dataset from platforms like Kaggle.
 
 ## 📂 Project Structure
+amazon-sales-analysis/
+├── notebooks/
+│ └── data_exploration.ipynb 
+└── README.md
